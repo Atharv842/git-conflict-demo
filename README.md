@@ -1,9 +1,9 @@
 # Website Configuration File
 
 def get_home_page():
-   title = "Welcome to Our Awesome Website"
-    color = "red"
-    font_size = "20px"
+    title = "Welcome to Our Awesome Website"
+    color = "green"
+    font_size = "18px"
     return title, color, font_size
 
 def get_footer():
